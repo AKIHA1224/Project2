@@ -18,7 +18,7 @@ var config = {
     title: 'Schools facing Tsunami risk<br>Measures for prevention',
     subtitle: 'July 2025',
     byline: 'By Akiha Komatsu',
-    footer: '<br><small><em></em></small>Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.<br>My GitHub<a href="https://github.com/your-repo-link" target="_blank"><img src="image/github-mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-left: 8px;"></a>',
+    footer: '<br><small><em></em></small>Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.<br>My GitHub<a href="https://github.com/AKIHA1224/Project2" target="_blank"><img src="image/github-mark.png" alt="GitHub" style="height: 20px; vertical-align: middle; margin-left: 8px;"></a>',
     chapters: [
         {
             id: 'slug-style-id',
