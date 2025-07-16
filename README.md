@@ -107,5 +107,6 @@ These are the sources for my data:
 * Additionally, due to the lack of available data, I was not able to examine whether each school has a designated evacuation plan or route. Since the dataset includes school names, I would like to consider conducting direct interviews with individual schools in the future.
 * This project only included prefectures for which tsunami inundation data is publicly available through the National Land Numerical Information. However, based on other news reports, it appears that Tokyo, Fukui, and Kagawa may have provided such data to media organizations. I hope to include these prefectures in future research.
 * This project was also a valuable opportunity to improve my QGIS skills. However, I encountered challenges such as large file sizes during export. Moving forward, I aim to deepen my understanding of the trade-offs involved in reducing file size, such as potential loss of detail or accuracy.
+* When the page is reloaded, all Mapbox layers are temporarily displayed at once, causing the map to appear cluttered for a moment. I have not yet identified the cause or how to resolve this issue, but I hope to address such detailed display problems in future improvements.
 
 
