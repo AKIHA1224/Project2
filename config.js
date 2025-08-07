@@ -434,7 +434,7 @@ By applying GIS (Geographic Information System) techniques, we overlaid the geog
             hidden: false,
             title: '',
             image: 'image/Schools_by_flood_depth.png',
-            description: 'Of the 3,521&nbsp;schools located in tsunami inundation zones, approximately 60% — or <span style="color: rgb(255,216,192);">2,189&nbsp;schools</span> — are expected to experience flooding of 1&nbsp;meter or more.',
+            description: 'Of the 3,531&nbsp;schools located in tsunami inundation zones, approximately 60% — or <span style="color: rgb(255,216,192);">2,189&nbsp;schools</span> — are expected to experience flooding of 1&nbsp;meter or more.',
             location: {
                 center: [135.5, 34.7],
                 zoom: 4.0,
